@@ -10,6 +10,7 @@
 4) No restriction for back angle <br>
 5) Consider leg closer to camera as exercised leg<br> 
 
+Instructions.docx has a detailed description and steps of the project
 
 
 Input Video Link: https://drive.google.com/file/d/1QM8UFQciXxJll5SZaTAhdqO4mg6tzM8r/view
